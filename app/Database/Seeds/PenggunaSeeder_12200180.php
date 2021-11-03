@@ -28,4 +28,4 @@ class PenggunaSeeder_12200180 extends Seeder
         $p = new PenggunaModel_12200180();
         $p->insertBatch($data); 
     }
-}
+} 
