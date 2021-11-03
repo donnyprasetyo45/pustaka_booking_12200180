@@ -32,5 +32,5 @@ class Pengguna extends Migration
     public function down()
     {
         $this->forge->dropTable('pengguna_12200180');
-    }
+    } 
 }
